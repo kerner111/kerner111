@@ -24,7 +24,7 @@
 
 **Технологии**: Python, Flask, SQLAlchemy
 
-###[Решение квадратных уравнений](https://github.com/kerner111/portfolio/blob/main/kvadyr/kvadyr/kvadyr.py)
+### [Решение квадратных уравнений](https://github.com/kerner111/portfolio/blob/main/kvadyr/kvadyr/kvadyr.py)
 
 ## 📫 Контакты
 
